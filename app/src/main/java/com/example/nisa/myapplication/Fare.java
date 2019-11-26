@@ -6,6 +6,8 @@ package com.example.nisa.myapplication;
  * Created by nisa on 28.05.2018.
  */
 
+
+
 public class Fare {
 
     ImageView img;
